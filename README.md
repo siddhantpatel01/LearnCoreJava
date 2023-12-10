@@ -274,7 +274,7 @@
 
 - Writing and executing SQL queries in Java.
 - Handling result sets and updates.
-- 
+  
 
 
 
